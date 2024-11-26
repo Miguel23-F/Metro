@@ -1,0 +1,41 @@
+ID_SERVICIO,NOMBRE,TIPO
+1,Indios Verdes,RTP
+2,Pino Suárez,RTP
+3,Polanco,RTP
+4,Chapultepec,RTP
+5,Tacubaya,RTP
+6,Centro Médico,RTP
+7,Polanco,RTP
+8,Constituyentes,RTP
+9,Centro Médico,RTP
+10,Pino Suárez,RTP
+11,Polanco,Metrobus
+12,Hidalgo,Metrobus
+13,La Raza,Metrobus
+14,Indios Verdes,Metrobus
+15,Indios Verdes,Metrobus
+16,Centro Médico,Metrobus
+17,Polanco,Metrobus
+18,Etiopía,Metrobus
+19,Chapultepec,Metrobus
+20,Hidalgo,Metrobus
+21,Indios Verdes,Metrobus
+22,Polanco,Metrobus
+23,Hidalgo,Metrobus
+24,Hidalgo,Metrobus
+25,Indios Verdes,Metrobus
+26,Pino Suárez,Metrobus
+27,Indios Verdes,Metrobus
+28,Etiopía,Metrobus
+29,Polanco,Metrobus
+30,Pino Suárez,Metrobus
+31,Pino Suárez,Trolebus
+32,Tacubaya,Trolebus
+33,Constituyentes,Trolebus
+34,Hidalgo,Trolebus
+35,Tacubaya,Trolebus
+36,Tacubaya,Cablebus
+37,Hidalgo,Cablebus
+38,Constituyentes,Cablebus
+39,Constituyentes,Cablebus
+40,La Raza,Cablebus

@@ -1,0 +1,34 @@
+-- Ej. I
+-- Puesto que solo nos pide reunir información en común entre las tablas 
+-- conectar y servicio usamos un natural join
+select *
+from conectar natural join servicio;
+
+
+-- Ej. J
+
+select a.IDTren, b.FechaInicio, b.FechaFin
+from tren a, reservar b
+where a.marca in ('ALSTOM') and
+      extract (year from b.FechaInicio) in (2022);
+
+-- Ej. L
+
+select Numerolinea, Marca, Estatus
+       count(IDTren) "Total trenes"
+from tren
+group by Numerolinea, Marca, Estatus  -- Los grupos que pide el ejercicio
+order by Numerolinea, Marca, Estatus
+
+-- Ej. M
+
+select *
+from hangar natural join reservar
+where hangar.NumeroEstacion % 2 = 1
+order by hangar
+
+-- Ej. N
+
+select *
+from Estacion natural left join Hangar
+where IDHangar is null

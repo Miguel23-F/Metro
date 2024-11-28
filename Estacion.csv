@@ -1,0 +1,196 @@
+NumeroEstacion,JefeEstacion,NombreEstacion,HoraApertura,HoraCierre,Telefono
+1,Esteban Mondragón Orozco,Observatorio,5:23,0:01,5586700339
+2,Azul Orozco Fernández,Tacubaya,5:00,0:19,5513909232
+3,Felipe Pastor Torres,Juanacatlán,5:24,0:03,5596624281
+4,Sergio Guzmán Barril,Chapultepec,5:17,0:17,5573556451
+5,Lizbeth Campos Fierros,Sevilla,5:14,0:08,5575645977
+6,Néstor Vázquez Camacho,Insurgentes,5:25,0:27,5596365027
+7,Javier Campos Quétzal,Cuauhtémoc,5:01,0:22,5509389238
+8,Valentín Zambrano Jumil,Balderas,5:00,0:04,5560785540
+9,Samuel Castro Ripoll,Salto del Agua,5:13,0:10,5534803457
+10,Ximena Huerta Jiménez,Isabel la Católica,5:07,0:18,5521374320
+11,Sandra Hacha Hernández,Pino Suárez,5:02,0:11,5550849284
+12,Ivonne Torres Durango,Merced,5:14,0:15,5548638896
+13,Perla Carrillo Ferreira,Candelaria,5:24,0:04,5558251614
+14,Teresa Guzmán Barril,San Lázaro,5:29,0:08,5592572428
+15,Elizabeth Vázquez Soto,Moctezuma,5:26,0:14,5587462461
+16,Fabián Núñez Posada,Balbuena,5:11,0:17,5562228785
+17,Julián Torres Fernández,Boulevard Puerto Aéreo,5:12,0:05,5539285954
+18,Juan Espinoza Paz,Gómez Farías,5:03,0:00,5505353172
+19,Zacarías Zárate Pérez,Zaragoza,5:24,0:24,5518200184
+20,Abril Torres Huerta,Pantitlán,5:26,0:16,5514017933
+21,Anastasia Méndez Cuenca,Cuatro Caminos,5:01,0:15,5514376968
+22,David Cañas Peña,Panteones,5:03,0:01,5567571597
+23,Cruz Candelaria Blanco,Tacuba,5:15,0:11,5534945060
+24,Esteban Amarillo Rojo,Cuitláhuac,5:11,0:07,5573467206
+25,Flor Guzmán Huerta,Popotla,5:06,0:13,5505025109
+26,René Rubio Sandoval,Colegio Militar,5:28,0:12,5538555178
+27,Esteban González Hernández,Normal,5:02,0:24,5521717586
+28,Javier Ibarra González,San Cosme,5:28,0:26,5501833345
+29,Rosa Torres Huerta,Revolución,5:11,0:15,5566982854
+30,Luis Espinoza Espinoza,Hidalgo,5:24,0:24,5538136217
+31,Teresa Jiménez Estrada,Bellas Artes,5:03,0:03,5516469594
+32,Guadalupe Trujillo Hernández,Allende,5:16,0:29,5545009913
+33,Daniel Martínez Martínez,Zócalo/Tenochtitlan,5:11,0:16,5575392348
+34,Catherine Posada Camacho,Pino Suárez,5:11,0:15,5578168842
+35,Camarena Soto Ruíz,San Antonio Abad,5:09,0:14,5513021125
+36,Estela Cañedo Cañedo,Chabacano,5:12,0:19,5586584563
+37,Víctor Durán Hernández,Viaducto,5:29,0:28,5589908074
+38,Antonio Ruíz Villa,Xola,5:06,0:26,5514606440
+39,Gabriela Barrón Martínez,Villa de Cortés,5:23,0:10,5587664791
+40,Angélica Solís Estrada,Nativitas,5:24,0:08,5510021932
+41,María Pérez Villa,Portales,5:21,0:26,5583107366
+42,Francisco Villa Ruiseñor,Ermita,5:29,0:17,5585787061
+43,Ernesto Páez Juárez,General Anaya,5:21,0:24,5555027850
+44,Héctor Parra Torres,Tasqueña,5:02,0:01,5587328553
+45,Lluvia Gómez Magno,Indios Verdes,5:25,0:28,5597996030
+46,Leticia Ángeles Ramírez,Deportivo 18 de Marzo,5:10,0:28,5543899140
+47,Laura Jiménez Limón,Potrero,5:25,0:26,5579896902
+48,Rodrigo Núñez Prado,La Raza,5:08,0:20,5526484900
+49,Perla Carrillo Martínez,Tlatelolco,5:04,0:09,5568191483
+50,Catalina González Zarate,Guerrero,5:23,0:29,5507073962
+51,Patricia Tijera Gómez,Hidalgo,5:29,0:16,5513837708
+52,Victoria Camacho Núñez,Juárez,5:08,0:15,5565543910
+53,Luis Jairo Domínguez,Balderas,5:20,0:21,5569840091
+54,Fortino López Durán,Niños Héroes / Poder Judicial CDMX,5:25,0:14,5589998605
+55,Miguel Mendoza Hernández,Hospital General,5:16,0:17,5527569493
+56,Fabiola Cruz Sánchez,Centro Médico,5:22,0:20,5590894682
+57,Martha Sánchez Ramírez,Etiopía / Plaza de la Transparencia,5:11,0:12,5563121501
+58,Liliana Cruz Jaurez,Eugenia,5:24,0:25,5577589473
+59,Gabriela Mondragón Hernández,División del Norte,5:02,0:24,5583963728
+60,Eduardo Piña Limón,Zapata,5:21,0:09,5539028397
+61,Bartolomeo Durango Ferreira,Coyoacán,5:19,0:16,5505622808
+62,Vinicio Gómez Carrillo,Viveros / Derechos Humanos,5:17,0:13,5574981403
+63,Adela Gómez Alonso,Miguel Ángel de Quevedo,5:02,0:09,5592189941
+64,Pablo Zambrano Niño,Copilco,5:28,0:24,5514140155
+65,Marina Quarantino Luján,Universidad,5:07,0:12,5504545483
+66,Valentina Gómez Ruiz,Martín Carrera,5:09,0:11,5531620369
+67,Mateo Martínez Hernández,Talismán,5:17,0:08,5579186619
+68,Alejandra Pérez López,Bondojito,5:22,0:24,5525186509
+69,Nicolás García Sánchez,Consulado,5:23,0:23,5567385110
+70,Isabella Millán Castro,Canal del Norte,5:15,0:09,5594417157
+71,Sebastián Romero Gil,Morelos,5:27,0:27,5592896641
+72,Luciana Álvarez Fernández,Candelaria,5:06,0:14,5566315318
+73,Daniel Ripoll Torres,Fray Servando,5:00,0:20,5594935972
+74,Mariana López Pérez,Jamaica,5:20,0:24,5524862155
+75,Diego Sánz Martínez,Santa Anita,5:10,0:04,5532309871
+76,Lluvia Hernández García,Pantitlán,5:08,0:18,5561828429
+77,Victoria Mendiola Pérez,Hangares,5:19,0:13,5583622187
+78,Nicolás Potro Gómez,Terminal Aérea,5:23,0:00,5561871294
+79,Pedro Bartolomé Mendoza,Oceanía,5:03,0:05,5521209722
+80,Ximena Zariana Torres,Aragón,5:16,0:27,5552860403
+81,Imelda Castillo Castro,Eduardo Molina,5:26,0:28,5571973815
+82,Manuel Meléndez Potro,Consulado,5:04,0:21,5543684511
+83,Diego Zarco Carvajal,Valle Gómez,5:02,0:27,5530204091
+84,Mario Rincón Zarate,Misterios,5:00,0:18,5589571232
+85,Hugo Sebastián Millán,La Raza,5:13,0:09,5559884906
+86,Ilse Jumil Castro,Autobuses del Norte,5:07,0:19,5568758931
+87,Dante Núñez Millán,Instituto del Petróleo,5:26,0:28,5522276095
+88,Regina Soto Miranda,Politécnico,5:20,0:10,5544975115
+89,Camila Suárez Martínez,El Rosario,5:19,0:11,5578893952
+90,Rosa Ornelas Juárez,Tezozómoc,5:00,0:23,5564003454
+91,Alexander Martínez Contreras,UAM Azcapotzalco,5:22,0:17,5587739525
+92,Yamilet Turcio Benítez,Ferrería / Arena Ciudad de México,5:04,0:19,5549095611
+93,Horacio Lujano Piña,Norte 45,5:29,0:08,5520127711
+94,Yahir Estrada Luna,Vallejo,5:02,0:18,5566722672
+95,Yulissa Carmona Carrillo,Instituto del Petróleo,5:06,0:01,5584002414
+96,Sofía Santana Durán,Lindavista,5:19,0:15,5567403021
+97,Brandon Pérez Jaime,Deportivo 18 de Marzo,5:23,0:01,5577494794
+98,Jaqueline Andrade Piña,La Villa / Basílica,5:05,0:07,5521428880
+99,Manuel Orozco Luján,Martín Carrera,5:09,0:16,5568090043
+100,Héctor Valencia Cortés,El Rosario,5:01,0:04,5508779718
+101,Iván Eugenio Garcés,Aquiles Serdán,5:09,0:06,5514924038
+102,Rocío Piedra Piña,Camarones,5:26,0:10,5529809822
+103,Rocío Dúrcal Escobedo,Refinería,5:27,0:18,5571779460
+104,Valentín Elizalde Navarro,Tacuba,5:21,0:14,5564488402
+105,Macarena Molina Rivas,San Joaquín,5:01,0:17,5522602533
+106,Leonardo Camarena Fuentes,Polanco,5:17,0:12,5527576705
+107,Ricardo Valenzuela Orozco,Auditorio,5:19,0:28,5530303113
+108,Milo Valle Cárdenas,Constituyentes,5:11,0:10,5547607919
+109,Milena Ibarra Valdez,Tacubaya,5:17,0:20,5553630074
+110,Raúl Lara Enciso,San Pedro de los Pinos,5:18,0:19,5525745012
+111,Regina Santiago Delgado,San Antonio,5:12,0:20,5553144693
+112,América Cervantes Velázquez,Mixcoac,5:24,0:13,5544324985
+113,Briana Méndez Pérez,Barranca del Muerto,5:13,0:18,5507942447
+114,Antonie Reyes Domínguez,Garibaldi / Lagunillla,5:03,0:27,5597018616
+115,Salvador Espinoza Rojo,Bellas Artes,5:27,0:26,5528127417
+116,Teodoro Hernández Martínez,San Juan de Letrán,5:11,0:00,5547253811
+117,Inés Ruíz Romero,Salto del Agua,5:27,0:17,5595707307
+118,Beatriz Pinzón Solano,Doctores,5:17,0:29,5594684903
+119,Aurora Ramos Jaurez,Obrera,5:18,0:07,5566350565
+120,Ana Meda Mendoza,Chabacano,5:00,0:29,5588628301
+121,Paola Pérez Chávez,La Viga,5:08,0:28,5524565820
+122,Teresa Chávez Rojas,Santa Anita,5:16,0:21,5568668901
+123,Amanda Miguel Molina,Coyuya,5:05,0:11,5510287864
+124,Samantha Lara Sandoval,Iztacalco,5:28,0:19,5537214033
+125,Dahli Ávila Luna,Apatlaco,5:16,0:29,5554034085
+126,Yaretzi Ramos Herrera,Aculco,5:06,0:14,5535833622
+127,Pavel Velázquez Bautista,Escuadrón 201,5:18,0:29,5519074520
+128,Miel Delgado Vega,Atalilco,5:14,0:25,5501827532
+129,Kevin Navarro Pacheco,Iztapalapa,5:06,0:20,5546331499
+130,Isaac Robles Aguirre,Cerro de la Estrella,5:10,0:07,5550362014
+131,José Estrada García,UAM - I,5:18,0:11,5508256434
+132,Leonel Pea Mejía,Constitución de 1917,5:11,0:19,5525149059
+133,Máximo Ríos Jaurez,Tacubaya,5:17,0:13,5586001642
+134,Lana Díaz Torres,Patriotismo,5:04,0:15,5516074531
+135,Karina Ortiz Fuentes,Chilpancingo,5:02,0:01,5515525265
+136,Laura Lima Cortés,Centro Médico,5:10,0:01,5502262199
+137,Emiliano Carrillo León,Lázaro Cárdenas,5:07,0:07,5561156076
+138,Daniel Valencia Nava,Chabacano,5:11,0:29,5568576527
+139,Yahir Aguirre Salas,Jamaica,5:05,0:24,5564936195
+140,Axel Salazar Benítez,Mixiuhca,5:16,0:10,5572017668
+141,Daniel Lujano Letrán,Velódromo,5:26,0:25,5575376555
+142,Jimena Aguilar Castillo,Ciudad Deportiva,5:02,0:02,5583535575
+143,Brenda Méndez Rojas,Puebla,5:26,0:10,5501799973
+144,Estefanía Santiago Guerrero,Pantitlán,5:06,0:26,5556250252
+145,Valeria Maldonado Rosales,Mixcoac,5:03,0:24,5572046022
+146,Santiago Huerta Rangel,Insurgentes Sur,5:17,0:26,5597074770
+147,Yael Fuentes Camacho,Hospital 20 de Noviembre,5:09,0:12,5598828310
+148,Gustavo Ávila Ríos,Zapata,5:20,0:24,5568763152
+149,Leonardo Sandoval Carrillo,Parque de los Venados,5:04,0:09,5594572443
+150,Salvador Ibarra Rosas,Eje Central,5:16,0:20,5515077923
+151,Giovanni Valdez Acosta,Ermita,5:23,0:02,5545209952
+152,Amairani Padilla Meza,Mexicaltzingo,5:06,0:06,5594178927
+153,Itzel Zúñiga Nuez,Atlalilco,5:03,0:10,5587257193
+154,Zukey Quintero Contreras,Culhuacán,5:04,0:11,5511755644
+155,Elvia García Díaz,San Andrés Tomatlán,5:11,0:08,5551529848
+156,Rebeca Lascuráin Mejía,Lomas Estrella,5:28,0:18,5531998220
+157,Amaya Carmona Muñoz,Calle 11,5:04,0:24,5538239464
+158,Gala Rivera Santana,Periférico Oriente,5:20,0:23,5595137348
+159,Claudio Flores Luna,Tezonco,5:17,0:00,5511370653
+160,Rodrigo Santos Portillo,Olivos,5:03,0:00,5528540024
+161,Juan Domínguez Castillo,Nopalera,5:06,0:04,5554975308
+162,Sabrina Silva Vera,Zapotitlán,5:01,0:00,5532849279
+163,Fernanda Valle Rojo,Tlaltengo,5:25,0:29,5564727622
+164,Enrique Luis Gómez,Tláhuac,5:08,0:11,5533983727
+165,Gabriela Ferrerira Salazar,Pantitlán,5:29,0:12,5528403878
+166,Citlalli Monroy Pérez,Agrícola Oriental,5:13,0:29,5542615109
+167,Flor García Mamani,Canal de San Juan,5:21,0:22,5548077005
+168,Karla Contreras Hernández,Tepalcates,5:01,0:05,5544971700
+169,Fátima Espinoza Giménez,Guelatao,5:08,0:05,5549131278
+170,Tania Mejía Moreno,Peñón Viejo,5:13,0:18,5545691260
+171,Néstor Lujano Catro,Acatitla,5:19,0:04,5529693994
+172,Eduardo Mora Muñoz,Santa Marta,5:29,0:00,5553255494
+173,David Pereira Domínguez,Los Reyes,5:19,0:27,5584607680
+174,Imelda Pineda Rojo,La Paz,5:18,0:19,5553465122
+175,Martín Morales Suárez,Ciudad Azteca,5:06,0:16,5503181794
+176,Maribel Castillo Magno,Plaza Aragón,5:17,0:22,5563837280
+177,Carlos Gil Miranda,Olimpica,5:16,0:13,5532551705
+178,Héctor Paredes Villalba,Ecatepec,5:18,0:10,5563561894
+179,Adrián Santana Sosa,Múzquiz,5:09,0:30,5590701853
+180,Lucas Carbajal Durante,Río de los Remedios,5:21,0:15,5503348894
+181,Laura Torres Gómez,Impulsadora,5:18,0:26,5553675693
+182,León Benítez Andrade,Nezahualcóyotl,5:03,0:00,5572907116
+183,Isabella López Sánchez,Villa de Aragón,5:03,0:02,5526748503
+184,Dulce Barajas Montoya,Bosque de Aragón,5:08,0:17,5532119700
+185,Lluvia Magno Linares,Deportivo Oceanía,5:29,0:03,5589564131
+186,Sol Chávez Martínez,Oceanía,5:25,0:28,5522689180
+187,Sebastián Goto Duarte,Romero Rubio,5:21,0:22,5518567301
+188,Genaro García Luna,Ricardo Flores Magón,5:05,0:12,5552424091
+189,Marcelo Zambrano Quispe,San Lázaro,5:28,0:09,5564639524
+190,Alejandro Flores Sánchez,Morelos,5:18,0:20,5502408741
+191,Esteban Mora Castro,Tepito,5:01,0:27,5524104893
+192,Carlota Andrade Gutiérrez,Lagunilla,5:18,0:02,5555672001
+193,Silvia Reyes Portillo,Garibaldi / Lagunillla,5:06,0:08,5584094466
+194,Lizbeth Salazar Reyes,Guerrero,5:17,0:19,5590162103
+195,Carmilla Rivas Santos,Buenavista,5:14,0:11,5516819248

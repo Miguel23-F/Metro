@@ -1,0 +1,30 @@
+IDServicio,Nombre,Tipo
+1,Ruta 12,Metrobus
+2,Ruta 2,Trolebus
+3,115A,RTP
+4,Ruta 2,Metrobus
+5,Ruta 3,Metrobus
+6,34A,RTP
+7,Ruta 4,Metrobus
+8,Ruta 5,Metrobus
+9,Ruta 4,Trolebus
+10,Ruta 1 ,Tren ligero
+11,Ruta 9,Trolebus
+12,57,RTP
+13,126,RTP
+14,Ruta 1,Metrobus
+15,Ruta 1,Cablebus
+16,Ruta 5,Trolebus
+17,200,RTP
+18,Ruta 8,Trolebus
+19,Ruta 6,Metrobus
+20,Ruta 7,Metrobus
+21,Ruta 5,Trolebus
+22,Ruta 6 ,Trolebus
+23,Ruta 1,Trolebus
+24,Ruta 2,Cablebus
+25,Ruta 10,Trolebus
+26,47A,RTP
+27,Ruta 3,Trolebus
+28,Ruta 12 ,Trolebus
+29,Ruta 7,Trolebus
